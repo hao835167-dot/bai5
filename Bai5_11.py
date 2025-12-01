@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 import numpy as np
 
 data_type = [('name', 'S15'), ('class', int), ('height', float)]
