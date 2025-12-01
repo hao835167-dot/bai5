@@ -1,3 +1,7 @@
+print("Tên: trần văn hào")
+print("Msv:245752021610153")
+print("#############################")
+######################################
 import find_min_max
 
 n = int(input("Nhập số lượng phần tử: "))
